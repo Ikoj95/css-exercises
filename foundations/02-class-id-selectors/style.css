@@ -1,0 +1,16 @@
+.background {
+    background-color: #FF4567;
+    font-family: Verdana,"DejaVu Sans",sans-serif;
+}
+.siz {
+    font-size: 24px;
+}
+#second {
+    color:rgb(0, 0, 255);
+    font-size: 36px;
+}
+#fourth {
+    background-color: #90ee90;
+    font-size: 24px;
+    font-weight: bold;
+}
